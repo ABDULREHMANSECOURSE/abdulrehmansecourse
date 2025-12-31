@@ -27,12 +27,14 @@
 ---
 
 ## 📊 GitHub Engineering Insights
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical" alt="GitHub Streak" height="175" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDULREHMANSECOURSE&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </p>
-
 ---
 
 ## ✨ Featured Engineering Projects
