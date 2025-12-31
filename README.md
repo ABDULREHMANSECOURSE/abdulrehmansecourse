@@ -1,12 +1,16 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/000000/gradient-bar.png" alt="" style="width:100%;max-width:760px;border-radius:12px"/>
+  <img src="https://user-images.githubusercontent.com/000000/gradient-bar.png" alt="Header" style="width:100%;max-width:760px;border-radius:12px"/>
 </h1>
 
-<h1 align="center"> 👋 Hi, I’m <strong style="color:#00E5FF">Abdul Rehman</strong></h1>
+<h1 align="center"> 👋 Hi, I’m <strong style="color:#00E5FF">ABDUL REHMAN</strong></h1>
 <p align="center">💼 Software Engineer • Full-Stack Developer • Problem Solver</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=690&lines=Architecting+Scalable+Systems;Full-stack+Software+Engineer;Open+to+collaboration+%26+innovation" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABDULREHMANSECOURSE&label=PROFILE+VIEWS&color=00E5FF&style=flat" alt="Views" />
 </p>
 
 ---
@@ -21,20 +25,20 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode" alt="tech icons"/>
 </p>
 
 ---
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULREHMANSECOURSE&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDULREHMANSECOURSE&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDULREHMANSECOURSE&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="48%"/>
 </p>
 
 ---
@@ -52,7 +56,7 @@
 
 ## 📫 Contact & Availability
 <p align="center">
-  <a href="mailto:rehman@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff5b5b?style=for-the-badge&logo=gmail" alt="email"/></a>
+  <a href="mailto:ABDULREHMANSECOURSE@GMAIL.COM"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff5b5b?style=for-the-badge&logo=gmail" alt="email"/></a>
   <a href="https://github.com/ABDULREHMANSECOURSE"><img src="https://img.shields.io/badge/GitHub-@ABDULREHMANSECOURSE-181717?style=for-the-badge&logo=github" alt="github"/></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
 </p>
