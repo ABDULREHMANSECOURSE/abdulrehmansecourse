@@ -28,9 +28,8 @@
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical" alt="GitHub Streak" height="175" />
 </p>
 
 <p align="center">
