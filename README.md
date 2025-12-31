@@ -32,12 +32,11 @@
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULREHMANSECOURSE&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" width="48%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDULREHMANSECOURSE&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="48%"/>
 </p>
 
