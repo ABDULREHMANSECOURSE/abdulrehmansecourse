@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54f57c30-9993-47e3-adff-e2503e9af975" /><h1 align="center">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/000000/gradient-bar.png" alt="" style="width:100%;max-width:760px;border-radius:12px"/>
 </h1>
 
