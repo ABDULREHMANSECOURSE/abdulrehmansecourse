@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
