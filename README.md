@@ -28,8 +28,6 @@
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical&rank_icon=github&display_format=svg" alt="GitHub Stats" height="160"/>
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" height="160"/>
 </p>
 
