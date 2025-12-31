@@ -28,6 +28,8 @@
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
+  <img src="your-vercel-domain.vercel.app" alt="GitHub Stats" height="160"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" height="160"/>
 </p>
 
