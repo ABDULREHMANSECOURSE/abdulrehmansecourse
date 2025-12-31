@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54f57c30-9993-47e3-adff-e2503e9af975" /><h1 align="center">
   <img src="https://user-images.githubusercontent.com/000000/gradient-bar.png" alt="" style="width:100%;max-width:760px;border-radius:12px"/>
 </h1>
 
@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Engineering Insights
 <p align="center">
-  <img src="your-vercel-domain.vercel.app" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDULREHMANSECOURSE&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" height="160"/>
 </p>
