@@ -53,7 +53,7 @@
 <p align="center">
   <a href="mailto:rehman@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ff5b5b?style=for-the-badge&logo=gmail" alt="email"/></a>
   <a href="https://github.com/ABDULREHMANSECOURSE"><img src="https://img.shields.io/badge/GitHub-@ABDULREHMANSECOURSE-181717?style=for-the-badge&logo=github" alt="github"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/abdulrehmanprogrammer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
 </p>
 
 ---
