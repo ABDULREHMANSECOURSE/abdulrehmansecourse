@@ -27,9 +27,7 @@
 ---
 
 ## 📊 GitHub Engineering Insights
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULREHMANSECOURSE&theme=radical&hide_border=true" alt="Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDULREHMANSECOURSE&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
